@@ -257,6 +257,9 @@ footer{
     padding: 34px;
     align-items: center;
     }
+    nav .logo{
+        font-size: 16px;
+    }
 }
 /* max-width: 60vw;
     margin: auto;
