@@ -54,7 +54,6 @@ nav button{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    height: calc(100% - 62px);
     color: white;
     position: relative;
     padding: 99px 30px;
@@ -210,6 +209,9 @@ footer{
 @media screen and (max-width: 1300px){
     nav{
         max-width: 90vw;
+    }
+    .hero{
+        padding: 86px 30px;
     }
     .first{
         flex-wrap: wrap;
